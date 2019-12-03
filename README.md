@@ -1,3 +1,6 @@
+# Heroku App Deployment
+* https://mapatxot-plotly-challenge.herokuapp.com/
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
