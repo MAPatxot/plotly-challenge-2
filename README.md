@@ -2,10 +2,16 @@
 * https://mapatxot-plotly-challenge.herokuapp.com/
 
 # Flask Screenshots
+
+Top of the Page:
 ![header image](https://raw.githubusercontent.com/MAPatxot/plotly-challenge-2/master/Heroku%20Screenshots/Heroku%20Screenshots/image.png)
+
+Bottom of the Page:
 ![header image](https://raw.githubusercontent.com/MAPatxot/plotly-challenge-2/master/Heroku%20Screenshots/Heroku%20Screenshots/image%20(1).png)
 
-# Plot.ly Homework - Belly Button Biodiversity
+- - -
+
+# Plot.ly Homework - Belly Button Biodiversity - Instructions Provided
 
 ## Step 1 - Plotly.js
 
